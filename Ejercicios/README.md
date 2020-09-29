@@ -7,3 +7,6 @@
    nombre, un código numérico y el curso en el que se imparte.
    Para simplificar supondremos que una carrera tiene 2 cursos, y un curso 2 asignaturas.
   
+3. Diseñar: 
+  - La clase Punto (definida por dos coordenadas en el espacio)
+  - Un método que permita calcular la distancia entre dos puntos

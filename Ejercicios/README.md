@@ -29,3 +29,8 @@
 
 9. Dado un número n, realizar un programa que sume los primeros n números pares.
 
+10. Realizar un programa que valide una edad e indique un mensaje dependiendo de la edad:
+  - (0..4] pequeñín
+  - (4..10] niño
+  - (10..40] adolescente
+  - (40 .. 80] talludito

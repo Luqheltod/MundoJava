@@ -19,3 +19,6 @@
   - La clase Rectángulo
   - Un método que pueda calcular el área de un rectángulo a partir de los datos
     proporcionados por teclado.
+
+6. Definir un método “mayorDeEdad” que, dada una edad, indique si la persona es mayor de edad
+   (definir la mayoría de edad como una constante).

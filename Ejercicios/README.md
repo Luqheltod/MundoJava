@@ -10,3 +10,7 @@
 3. Diseñar: 
   - La clase Punto (definida por dos coordenadas en el espacio)
   - Un método que permita calcular la distancia entre dos puntos
+
+4. Diseñar
+  - La clase “ElementoTablaPeriodica” que guarda el nombre, símbolo y número.
+  - El método “numeroDeElementos()” que indique cuantas instancias se han creado.

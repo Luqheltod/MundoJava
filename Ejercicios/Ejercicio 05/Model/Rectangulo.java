@@ -34,6 +34,18 @@ public class Rectangulo {
 		
 	}
 	
+	public int ObtenerArea() {
+		
+		int base =  (this.p1.getCoordenadaX() - this.p3.getCoordenadaX() );
+		int altura = (this.p2.getCoordenadaY() - this.p4.getCoordenadaY()); 
+		
+		int area = base * altura;
+		
+		
+		return area;
+	}
+	
+	
 	//estos metodos devuelven un punto, que luego sera leido mediante el toString de la propia clase Punto. 
 	public Punto getP1() {
 		return p1;

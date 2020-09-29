@@ -32,6 +32,8 @@ public class Main {
 		System.out.println(prueba.getP3());
 		System.out.println(prueba.getP4());
 		
+		System.out.println("El area del rectangulo es " + prueba.ObtenerArea());
+		
 	}
 
 }

@@ -9,11 +9,12 @@ public class Coche {
 	private int anio;
 	private String modSeguro;
 	
-	
+	//constructor estandar
 	public Coche() {
 		
 	}
 	
+	//constructor propio 
 	public Coche(String color, String modelo, boolean metalizada, model.tipo tipo, int anio, String modSeguro) {
 		
 		this.color = color;
@@ -25,7 +26,7 @@ public class Coche {
 	}
 
 
-
+//setters & getters
 
 	public String getColor() {
 		return color;
@@ -108,6 +109,7 @@ public class Coche {
 		this.modSeguro = modSeguro;
 	}
 
+	//metodo toString 
 	@Override
 	public String toString() {
 		return "Coche [color=" + color + ", modelo=" + modelo + ", metalizada=" + metalizada + ", tipo=" + tipo

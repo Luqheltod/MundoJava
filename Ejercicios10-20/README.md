@@ -1,0 +1,1 @@
+11. Realiza un simulador de lotería primitiva que permita varias apuestas

@@ -24,3 +24,5 @@
    (definir la mayoría de edad como una constante).
 
 7. Escribir un método que pida un número entero e indique si es par o impar. Realiza una prueba del metodo con jUnit.
+
+7. Escribir el abecedario utilizando un bucle for.

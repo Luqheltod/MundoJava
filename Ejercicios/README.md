@@ -14,3 +14,8 @@
 4. Diseñar
   - La clase “ElementoTablaPeriodica” que guarda el nombre, símbolo y número.
   - El método “numeroDeElementos()” que indique cuantas instancias se han creado.
+
+5. Diseñar
+  - La clase Rectángulo
+  - Un método que pueda calcular el área de un rectángulo a partir de los datos
+    proporcionados por teclado.

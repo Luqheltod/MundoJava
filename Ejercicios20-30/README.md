@@ -20,3 +20,7 @@
 
 27. Diseñar la clase Futbolista que tenga, entre sus atributos, dos enumerados. Uno de ellos para
     indicar el equipo de pertenencia y otro para indicar su posición en el campo
+
+28. Realizar un programa que pida dos frases y muestre en la salida las dos frases mezcladas
+    cogiendo letras de forma alternativa
+  - Ejemplo: Si las frases son HOLA CASA y RATO MALO la salida sería: HROALTAO CMAASLAO

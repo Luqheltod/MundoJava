@@ -1,1 +1,1 @@
-30. Realizar un método para que, dado un texto, indique si ese texto es un palíndromo.
+21. Realizar un método para que, dado un texto, indique si ese texto es un palíndromo.

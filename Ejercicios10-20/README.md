@@ -27,3 +27,5 @@
 
 19. Escribir un método que reciba un array de string y devuelva
     otro array ordenado alfabéticamentevamente
+
+20. Realiza un método que reciba un String y reemplace “endeluego” por “desde luego”.

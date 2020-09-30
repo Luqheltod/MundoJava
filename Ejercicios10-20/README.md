@@ -16,3 +16,5 @@
   - Crear Arrays de un tamaño proporcionado (pidiendo datos)
   - Indicar la suma de todos los números
   - Devolver el array invertido
+
+16. Realizar 100 tiradas de un dado e indicar la frecuencia de cada resultado

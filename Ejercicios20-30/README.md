@@ -7,3 +7,10 @@
     cada tipo son 3’, 5’ y 7’ respectivamente. Diseñar una estructura mediante enumerados.
 
 24. Diseñar una estructura para poder trabajar con los meses del año
+
+25. Diseñar un traductor de idiomas que pida una palabra y el idioma a traducir:
+  - Alemán (vocal). Quitar vocal y añadir sufijo “ujem”: silla -> sillujem
+  - Alemán (consonante). Quitar últimas letras y añadir sufijo “ujem”: camión -> camiujem
+  - Búlgaro (vocal). Añadir sufijo “kov”: silla -> sillakov
+  - Búlgaro (consonante). Quitar consonante y añadir sufijo “kov”: camión -> camiokov
+  - Catalán. Quitar la última letra

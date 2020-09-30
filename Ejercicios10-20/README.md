@@ -17,4 +17,7 @@
   - Indicar la suma de todos los números
   - Devolver el array invertido
 
-16. Realizar 100 tiradas de un dado e indicar la frecuencia de cada resultado
+16. Realizar 100 tiradas de un dado e indicar la frecuencia de cada resultado.
+
+17. Escribir un programa que reciba un array de cadenas y devuelva un array de enteros con los
+    tamaños de cada una de las cadenas.

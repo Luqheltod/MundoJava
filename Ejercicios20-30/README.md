@@ -17,3 +17,6 @@
 
 26. Escribir un método para que, dado un array de termino de un diccionario (nombre +
     definición), indique cuantas letras tiene cada palabra y cuantas palabras la definición.
+
+27. Diseñar la clase Futbolista que tenga, entre sus atributos, dos enumerados. Uno de ellos para
+    indicar el equipo de pertenencia y otro para indicar su posición en el campo

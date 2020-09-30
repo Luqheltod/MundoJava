@@ -10,3 +10,9 @@
 14. Escribir un programa que pida los límites de un rango (límite superior e inferior) y que a
     continuación vaya pidiendo números.
     Si el número se encuentra dentro de ese rango, escribirá el cubo de ese número.
+
+15. Escribir una clase para trabajar con arrays (de tipo int) que incluya métodos estáticos para:
+  - Imprimir un array (separando los elementos por comas)
+  - Crear Arrays de un tamaño proporcionado (pidiendo datos)
+  - Indicar la suma de todos los números
+  - Devolver el array invertido

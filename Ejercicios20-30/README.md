@@ -14,3 +14,6 @@
   - Búlgaro (vocal). Añadir sufijo “kov”: silla -> sillakov
   - Búlgaro (consonante). Quitar consonante y añadir sufijo “kov”: camión -> camiokov
   - Catalán. Quitar la última letra
+
+26. Escribir un método para que, dado un array de termino de un diccionario (nombre +
+    definición), indique cuantas letras tiene cada palabra y cuantas palabras la definición.

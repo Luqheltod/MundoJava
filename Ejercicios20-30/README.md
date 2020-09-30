@@ -26,3 +26,6 @@
   - Ejemplo: Si las frases son HOLA CASA y RATO MALO la salida sería: HROALTAO CMAASLAO
 
 29. Diseñar la estructura Estudiante y Profesor de la forma más optimizada posible.
+
+30. Diseñar la clase Pixel
+    Diseñar la clase imagen BMP

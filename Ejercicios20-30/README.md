@@ -5,3 +5,5 @@
 
 23. Un túnel de lavado dispone de tres tipos de lavados: BÁSICO, NORMAL, SUPER. Los tiempos para
     cada tipo son 3’, 5’ y 7’ respectivamente. Diseñar una estructura mediante enumerados.
+
+24. Diseñar una estructura para poder trabajar con los meses del año

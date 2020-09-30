@@ -24,3 +24,5 @@
 28. Realizar un programa que pida dos frases y muestre en la salida las dos frases mezcladas
     cogiendo letras de forma alternativa
   - Ejemplo: Si las frases son HOLA CASA y RATO MALO la salida sería: HROALTAO CMAASLAO
+
+29. Diseñar la estructura Estudiante y Profesor de la forma más optimizada posible.
